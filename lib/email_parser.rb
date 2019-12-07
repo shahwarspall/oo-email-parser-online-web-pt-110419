@@ -14,7 +14,7 @@ end
 def parse
    # binding.pry
     #names.split[0].split(',')
-  #names.delete(',').split.unique
+  #names.delete(',').split.uniq
   
   
     

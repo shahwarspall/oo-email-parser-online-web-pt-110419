@@ -13,8 +13,8 @@ end
 
 def parse
    # binding.pry
-    names.split[0].split(',')
-  #names.delete(',').split.uniq
+    #names.split[0].split(',')
+  #names.delete(',').split
   
   
     

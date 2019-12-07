@@ -12,7 +12,7 @@ def initialize(name)
 end 
 
 def parse
-    binding.pry
+   # binding.pry
     names.split[0].split(',')
   #names.delete(',').split.uniq
   
